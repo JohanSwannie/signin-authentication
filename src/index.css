@@ -24,8 +24,8 @@ body {
 
 section {
     width: 100%;
-    max-width: 40rem;
-    min-height: 30rem;
+    max-width: 65rem;
+    min-height: 40rem;
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
@@ -76,7 +76,7 @@ button {
 }
 
 .injunctions {
-    font-size: 0.75rem;
+    font-size: 1rem;
     border-radius: 0.5rem;
     background: #000;
     color: #fff;
@@ -116,6 +116,6 @@ button {
     margin-bottom: 0.5rem;
 }
 
-.line {
+.underline {
     display: inline-block;
 }
